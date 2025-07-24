@@ -1,0 +1,4 @@
+specialty,count(fv.diagnosis_code)
+Psychiatry,1295
+Pediatrics,1318
+Orthopedics,1721
