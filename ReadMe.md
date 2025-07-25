@@ -1,7 +1,7 @@
 ### Data Warehouse and Analytics Project
 
 Welcome to my **HospitalProject** repository!  
-This project demonstrates data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
+This project demonstrates data warehousing, cleaning data, transforming data and analytics solution, from building a data warehouse to generating actionable insights. 
 
 This project involves:
 
@@ -64,8 +64,7 @@ data-warehouse-project/
 ├
 └── requirements.txt                    # Dependencies and requirements for the project
 
-
-
+```
 
 ## 👤 About Me
 
@@ -87,6 +86,4 @@ This project not only demonstrates my SQL proficiency and understanding of data 
 - 💻 [GitHub](https://github.com/OzorEl)
 - 📧 **Email:** ozoryoung@gmail.com
 
-
-```
 ---
