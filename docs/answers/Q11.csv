@@ -1,4 +1,701 @@
-specialty,count(fv.diagnosis_code)
-Psychiatry,1295
-Pediatrics,1318
-Orthopedics,1721
+diagnosis_code,specialty,frequency
+ICD_02.56,Cardiology,22
+ICD_07.00,Cardiology,17
+ICD_37.80,Cardiology,16
+ICD_14.65,Cardiology,16
+ICD_02.02,Cardiology,16
+ICD_04.03,Cardiology,16
+ICD_51.39,Cardiology,16
+ICD_72.15,Cardiology,16
+ICD_01.98,Cardiology,15
+ICD_22.44,Cardiology,15
+ICD_87.52,Cardiology,15
+ICD_90.68,Cardiology,15
+ICD_54.56,Cardiology,14
+ICD_68.68,Cardiology,14
+ICD_35.84,Cardiology,14
+ICD_92.94,Cardiology,14
+ICD_63.70,Cardiology,14
+ICD_68.96,Cardiology,13
+ICD_13.93,Cardiology,13
+ICD_40.75,Cardiology,13
+ICD_86.29,Cardiology,13
+ICD_54.01,Cardiology,13
+ICD_89.48,Cardiology,13
+ICD_79.11,Cardiology,13
+ICD_24.15,Cardiology,13
+ICD_50.41,Cardiology,12
+ICD_91.71,Cardiology,12
+ICD_40.23,Cardiology,12
+ICD_17.30,Cardiology,12
+ICD_68.23,Cardiology,12
+ICD_76.46,Cardiology,12
+ICD_22.23,Cardiology,12
+ICD_67.80,Cardiology,12
+ICD_39.54,Cardiology,12
+ICD_96.19,Cardiology,12
+ICD_76.45,Cardiology,12
+ICD_49.28,Cardiology,12
+ICD_44.22,Cardiology,12
+ICD_23.65,Cardiology,11
+ICD_34.64,Cardiology,11
+ICD_83.31,Cardiology,11
+ICD_63.65,Cardiology,11
+ICD_69.29,Cardiology,11
+ICD_81.39,Cardiology,11
+ICD_26.11,Cardiology,11
+ICD_54.18,Cardiology,11
+ICD_86.94,Cardiology,11
+ICD_16.57,Cardiology,11
+ICD_17.61,Cardiology,11
+ICD_94.77,Cardiology,11
+ICD_59.11,Cardiology,11
+ICD_30.42,Cardiology,10
+ICD_69.06,Cardiology,10
+ICD_65.92,Cardiology,10
+ICD_27.05,Cardiology,10
+ICD_04.55,Cardiology,10
+ICD_66.88,Cardiology,10
+ICD_27.23,Cardiology,10
+ICD_75.60,Cardiology,10
+ICD_80.85,Cardiology,10
+ICD_90.40,Cardiology,9
+ICD_96.23,Cardiology,9
+ICD_66.54,Cardiology,9
+ICD_29.68,Cardiology,9
+ICD_88.68,Cardiology,9
+ICD_45.65,Cardiology,9
+ICD_18.44,Cardiology,9
+ICD_25.54,Cardiology,9
+ICD_09.59,Cardiology,9
+ICD_71.95,Cardiology,8
+ICD_56.84,Cardiology,8
+ICD_88.62,Cardiology,8
+ICD_29.88,Cardiology,8
+ICD_23.88,Cardiology,8
+ICD_11.05,Cardiology,8
+ICD_30.54,Cardiology,8
+ICD_31.22,Cardiology,8
+ICD_50.89,Cardiology,8
+ICD_36.86,Cardiology,8
+ICD_69.24,Cardiology,8
+ICD_54.10,Cardiology,8
+ICD_27.28,Cardiology,7
+ICD_15.48,Cardiology,7
+ICD_06.96,Cardiology,7
+ICD_68.92,Cardiology,7
+ICD_81.33,Cardiology,7
+ICD_19.95,Cardiology,7
+ICD_62.26,Cardiology,6
+ICD_12.40,Cardiology,6
+ICD_83.64,Cardiology,6
+ICD_72.80,Cardiology,6
+ICD_16.34,Cardiology,6
+ICD_65.16,Cardiology,6
+ICD_88.71,Cardiology,6
+ICD_65.10,Cardiology,6
+ICD_21.96,Cardiology,6
+ICD_63.88,Cardiology,6
+ICD_14.30,Cardiology,6
+ICD_62.22,Cardiology,3
+ICD_16.33,Cardiology,3
+ICD_24.15,Dermatology,30
+ICD_69.24,Dermatology,30
+ICD_13.93,Dermatology,28
+ICD_76.46,Dermatology,28
+ICD_17.61,Dermatology,28
+ICD_45.65,Dermatology,27
+ICD_11.05,Dermatology,27
+ICD_80.85,Dermatology,26
+ICD_12.40,Dermatology,26
+ICD_17.30,Dermatology,26
+ICD_92.94,Dermatology,25
+ICD_22.44,Dermatology,25
+ICD_72.80,Dermatology,25
+ICD_54.10,Dermatology,24
+ICD_01.98,Dermatology,24
+ICD_81.33,Dermatology,24
+ICD_27.23,Dermatology,24
+ICD_65.16,Dermatology,24
+ICD_30.42,Dermatology,23
+ICD_75.60,Dermatology,23
+ICD_02.56,Dermatology,23
+ICD_27.28,Dermatology,23
+ICD_63.65,Dermatology,23
+ICD_54.56,Dermatology,23
+ICD_16.34,Dermatology,22
+ICD_69.29,Dermatology,22
+ICD_62.22,Dermatology,22
+ICD_14.30,Dermatology,22
+ICD_90.68,Dermatology,22
+ICD_54.18,Dermatology,21
+ICD_71.95,Dermatology,21
+ICD_15.48,Dermatology,21
+ICD_68.96,Dermatology,21
+ICD_23.88,Dermatology,21
+ICD_44.22,Dermatology,21
+ICD_16.33,Dermatology,21
+ICD_54.01,Dermatology,21
+ICD_72.15,Dermatology,21
+ICD_76.45,Dermatology,21
+ICD_94.77,Dermatology,21
+ICD_89.48,Dermatology,21
+ICD_26.11,Dermatology,20
+ICD_36.86,Dermatology,20
+ICD_39.54,Dermatology,20
+ICD_18.44,Dermatology,20
+ICD_96.19,Dermatology,20
+ICD_40.75,Dermatology,20
+ICD_07.00,Dermatology,20
+ICD_68.68,Dermatology,19
+ICD_65.92,Dermatology,19
+ICD_34.64,Dermatology,19
+ICD_49.28,Dermatology,19
+ICD_87.52,Dermatology,19
+ICD_88.71,Dermatology,19
+ICD_06.96,Dermatology,19
+ICD_86.94,Dermatology,19
+ICD_16.57,Dermatology,19
+ICD_21.96,Dermatology,19
+ICD_68.92,Dermatology,18
+ICD_37.80,Dermatology,18
+ICD_83.64,Dermatology,18
+ICD_67.80,Dermatology,18
+ICD_23.65,Dermatology,18
+ICD_02.02,Dermatology,18
+ICD_63.70,Dermatology,18
+ICD_50.41,Dermatology,18
+ICD_04.03,Dermatology,18
+ICD_27.05,Dermatology,17
+ICD_40.23,Dermatology,17
+ICD_50.89,Dermatology,17
+ICD_66.88,Dermatology,17
+ICD_29.68,Dermatology,17
+ICD_65.10,Dermatology,17
+ICD_68.23,Dermatology,17
+ICD_88.62,Dermatology,17
+ICD_56.84,Dermatology,17
+ICD_30.54,Dermatology,17
+ICD_90.40,Dermatology,17
+ICD_83.31,Dermatology,17
+ICD_81.39,Dermatology,17
+ICD_86.29,Dermatology,17
+ICD_51.39,Dermatology,17
+ICD_35.84,Dermatology,17
+ICD_79.11,Dermatology,16
+ICD_04.55,Dermatology,16
+ICD_09.59,Dermatology,16
+ICD_88.68,Dermatology,15
+ICD_59.11,Dermatology,15
+ICD_25.54,Dermatology,15
+ICD_66.54,Dermatology,15
+ICD_31.22,Dermatology,15
+ICD_63.88,Dermatology,15
+ICD_19.95,Dermatology,15
+ICD_22.23,Dermatology,15
+ICD_69.06,Dermatology,14
+ICD_91.71,Dermatology,14
+ICD_62.26,Dermatology,14
+ICD_96.23,Dermatology,13
+ICD_14.65,Dermatology,13
+ICD_29.88,Dermatology,12
+ICD_23.65,"General Medicine",22
+ICD_80.85,"General Medicine",20
+ICD_30.42,"General Medicine",20
+ICD_22.44,"General Medicine",19
+ICD_56.84,"General Medicine",19
+ICD_02.02,"General Medicine",18
+ICD_01.98,"General Medicine",17
+ICD_68.23,"General Medicine",17
+ICD_40.75,"General Medicine",17
+ICD_96.23,"General Medicine",17
+ICD_13.93,"General Medicine",17
+ICD_75.60,"General Medicine",17
+ICD_79.11,"General Medicine",16
+ICD_44.22,"General Medicine",16
+ICD_17.30,"General Medicine",16
+ICD_27.23,"General Medicine",15
+ICD_17.61,"General Medicine",15
+ICD_92.94,"General Medicine",15
+ICD_76.46,"General Medicine",15
+ICD_19.95,"General Medicine",15
+ICD_29.88,"General Medicine",15
+ICD_89.48,"General Medicine",14
+ICD_54.10,"General Medicine",14
+ICD_62.22,"General Medicine",14
+ICD_51.39,"General Medicine",14
+ICD_88.71,"General Medicine",14
+ICD_02.56,"General Medicine",14
+ICD_50.41,"General Medicine",14
+ICD_94.77,"General Medicine",14
+ICD_83.31,"General Medicine",14
+ICD_16.33,"General Medicine",13
+ICD_12.40,"General Medicine",13
+ICD_54.18,"General Medicine",13
+ICD_37.80,"General Medicine",13
+ICD_59.11,"General Medicine",13
+ICD_29.68,"General Medicine",12
+ICD_34.64,"General Medicine",12
+ICD_65.16,"General Medicine",12
+ICD_83.64,"General Medicine",12
+ICD_90.40,"General Medicine",12
+ICD_40.23,"General Medicine",12
+ICD_18.44,"General Medicine",12
+ICD_16.34,"General Medicine",12
+ICD_36.86,"General Medicine",12
+ICD_21.96,"General Medicine",12
+ICD_16.57,"General Medicine",12
+ICD_66.88,"General Medicine",12
+ICD_04.55,"General Medicine",11
+ICD_81.33,"General Medicine",11
+ICD_76.45,"General Medicine",11
+ICD_68.92,"General Medicine",11
+ICD_14.65,"General Medicine",11
+ICD_54.56,"General Medicine",11
+ICD_04.03,"General Medicine",11
+ICD_45.65,"General Medicine",11
+ICD_68.96,"General Medicine",11
+ICD_30.54,"General Medicine",10
+ICD_27.05,"General Medicine",10
+ICD_26.11,"General Medicine",10
+ICD_65.10,"General Medicine",10
+ICD_15.48,"General Medicine",10
+ICD_68.68,"General Medicine",10
+ICD_86.29,"General Medicine",10
+ICD_11.05,"General Medicine",10
+ICD_81.39,"General Medicine",10
+ICD_87.52,"General Medicine",10
+ICD_88.68,"General Medicine",10
+ICD_63.70,"General Medicine",10
+ICD_23.88,"General Medicine",10
+ICD_24.15,"General Medicine",9
+ICD_67.80,"General Medicine",9
+ICD_71.95,"General Medicine",9
+ICD_25.54,"General Medicine",9
+ICD_63.88,"General Medicine",9
+ICD_49.28,"General Medicine",9
+ICD_69.24,"General Medicine",9
+ICD_65.92,"General Medicine",9
+ICD_27.28,"General Medicine",9
+ICD_69.06,"General Medicine",9
+ICD_66.54,"General Medicine",9
+ICD_09.59,"General Medicine",9
+ICD_14.30,"General Medicine",9
+ICD_06.96,"General Medicine",9
+ICD_72.15,"General Medicine",9
+ICD_69.29,"General Medicine",9
+ICD_72.80,"General Medicine",9
+ICD_88.62,"General Medicine",8
+ICD_96.19,"General Medicine",8
+ICD_31.22,"General Medicine",8
+ICD_62.26,"General Medicine",7
+ICD_91.71,"General Medicine",7
+ICD_50.89,"General Medicine",6
+ICD_86.94,"General Medicine",6
+ICD_39.54,"General Medicine",6
+ICD_35.84,"General Medicine",5
+ICD_22.23,"General Medicine",5
+ICD_54.01,"General Medicine",5
+ICD_07.00,"General Medicine",5
+ICD_63.65,"General Medicine",5
+ICD_90.68,"General Medicine",5
+ICD_16.57,Neurology,26
+ICD_30.42,Neurology,23
+ICD_63.88,Neurology,23
+ICD_40.23,Neurology,22
+ICD_23.65,Neurology,21
+ICD_45.65,Neurology,21
+ICD_29.88,Neurology,20
+ICD_23.88,Neurology,20
+ICD_69.24,Neurology,20
+ICD_76.46,Neurology,20
+ICD_69.06,Neurology,19
+ICD_68.96,Neurology,19
+ICD_83.31,Neurology,19
+ICD_22.44,Neurology,19
+ICD_14.65,Neurology,19
+ICD_86.29,Neurology,18
+ICD_83.64,Neurology,18
+ICD_88.71,Neurology,18
+ICD_17.30,Neurology,18
+ICD_24.15,Neurology,18
+ICD_76.45,Neurology,17
+ICD_04.03,Neurology,17
+ICD_67.80,Neurology,17
+ICD_35.84,Neurology,17
+ICD_36.86,Neurology,17
+ICD_15.48,Neurology,17
+ICD_06.96,Neurology,17
+ICD_65.16,Neurology,17
+ICD_56.84,Neurology,17
+ICD_63.65,Neurology,17
+ICD_79.11,Neurology,17
+ICD_54.10,Neurology,16
+ICD_90.40,Neurology,16
+ICD_65.92,Neurology,16
+ICD_88.68,Neurology,16
+ICD_14.30,Neurology,16
+ICD_22.23,Neurology,16
+ICD_01.98,Neurology,16
+ICD_07.00,Neurology,16
+ICD_91.71,Neurology,16
+ICD_62.22,Neurology,16
+ICD_49.28,Neurology,15
+ICD_69.29,Neurology,15
+ICD_50.89,Neurology,15
+ICD_26.11,Neurology,15
+ICD_11.05,Neurology,15
+ICD_27.23,Neurology,15
+ICD_37.80,Neurology,15
+ICD_87.52,Neurology,15
+ICD_59.11,Neurology,15
+ICD_13.93,Neurology,15
+ICD_72.80,Neurology,15
+ICD_04.55,Neurology,14
+ICD_54.01,Neurology,14
+ICD_66.88,Neurology,14
+ICD_02.56,Neurology,14
+ICD_68.68,Neurology,14
+ICD_51.39,Neurology,14
+ICD_96.19,Neurology,14
+ICD_54.18,Neurology,14
+ICD_29.68,Neurology,14
+ICD_96.23,Neurology,14
+ICD_50.41,Neurology,14
+ICD_17.61,Neurology,14
+ICD_80.85,Neurology,14
+ICD_88.62,Neurology,14
+ICD_34.64,Neurology,13
+ICD_63.70,Neurology,13
+ICD_89.48,Neurology,13
+ICD_68.92,Neurology,13
+ICD_39.54,Neurology,13
+ICD_19.95,Neurology,12
+ICD_54.56,Neurology,12
+ICD_68.23,Neurology,12
+ICD_21.96,Neurology,12
+ICD_81.39,Neurology,12
+ICD_86.94,Neurology,12
+ICD_90.68,Neurology,12
+ICD_16.33,Neurology,12
+ICD_12.40,Neurology,12
+ICD_27.05,Neurology,11
+ICD_25.54,Neurology,11
+ICD_09.59,Neurology,11
+ICD_94.77,Neurology,11
+ICD_65.10,Neurology,11
+ICD_44.22,Neurology,11
+ICD_71.95,Neurology,11
+ICD_62.26,Neurology,11
+ICD_18.44,Neurology,10
+ICD_02.02,Neurology,10
+ICD_27.28,Neurology,10
+ICD_72.15,Neurology,9
+ICD_81.33,Neurology,9
+ICD_66.54,Neurology,9
+ICD_16.34,Neurology,9
+ICD_31.22,Neurology,8
+ICD_30.54,Neurology,8
+ICD_75.60,Neurology,8
+ICD_40.75,Neurology,7
+ICD_92.94,Neurology,6
+ICD_81.39,Orthopedics,28
+ICD_37.80,Orthopedics,26
+ICD_68.23,Orthopedics,25
+ICD_96.23,Orthopedics,24
+ICD_04.03,Orthopedics,24
+ICD_94.77,Orthopedics,24
+ICD_50.89,Orthopedics,24
+ICD_21.96,Orthopedics,23
+ICD_76.45,Orthopedics,22
+ICD_06.96,Orthopedics,22
+ICD_40.23,Orthopedics,22
+ICD_54.01,Orthopedics,22
+ICD_29.88,Orthopedics,21
+ICD_72.15,Orthopedics,21
+ICD_90.68,Orthopedics,21
+ICD_50.41,Orthopedics,21
+ICD_36.86,Orthopedics,21
+ICD_16.57,Orthopedics,21
+ICD_02.02,Orthopedics,21
+ICD_39.54,Orthopedics,20
+ICD_27.28,Orthopedics,20
+ICD_04.55,Orthopedics,20
+ICD_69.06,Orthopedics,20
+ICD_31.22,Orthopedics,20
+ICD_16.34,Orthopedics,20
+ICD_35.84,Orthopedics,20
+ICD_40.75,Orthopedics,20
+ICD_02.56,Orthopedics,20
+ICD_69.24,Orthopedics,20
+ICD_92.94,Orthopedics,20
+ICD_09.59,Orthopedics,19
+ICD_80.85,Orthopedics,19
+ICD_81.33,Orthopedics,19
+ICD_75.60,Orthopedics,19
+ICD_68.92,Orthopedics,19
+ICD_68.96,Orthopedics,18
+ICD_91.71,Orthopedics,18
+ICD_63.65,Orthopedics,18
+ICD_24.15,Orthopedics,18
+ICD_90.40,Orthopedics,18
+ICD_25.54,Orthopedics,18
+ICD_15.48,Orthopedics,18
+ICD_30.42,Orthopedics,18
+ICD_83.31,Orthopedics,18
+ICD_22.44,Orthopedics,18
+ICD_22.23,Orthopedics,18
+ICD_69.29,Orthopedics,18
+ICD_88.62,Orthopedics,18
+ICD_86.94,Orthopedics,18
+ICD_44.22,Orthopedics,18
+ICD_76.46,Orthopedics,17
+ICD_59.11,Orthopedics,17
+ICD_86.29,Orthopedics,17
+ICD_14.65,Orthopedics,17
+ICD_13.93,Orthopedics,17
+ICD_07.00,Orthopedics,17
+ICD_18.44,Orthopedics,17
+ICD_54.56,Orthopedics,16
+ICD_27.23,Orthopedics,16
+ICD_01.98,Orthopedics,16
+ICD_68.68,Orthopedics,16
+ICD_63.70,Orthopedics,16
+ICD_96.19,Orthopedics,16
+ICD_54.10,Orthopedics,16
+ICD_12.40,Orthopedics,16
+ICD_30.54,Orthopedics,16
+ICD_65.10,Orthopedics,15
+ICD_88.71,Orthopedics,15
+ICD_11.05,Orthopedics,15
+ICD_27.05,Orthopedics,15
+ICD_66.54,Orthopedics,15
+ICD_23.88,Orthopedics,15
+ICD_51.39,Orthopedics,15
+ICD_54.18,Orthopedics,15
+ICD_88.68,Orthopedics,15
+ICD_79.11,Orthopedics,14
+ICD_72.80,Orthopedics,14
+ICD_63.88,Orthopedics,14
+ICD_65.92,Orthopedics,14
+ICD_19.95,Orthopedics,14
+ICD_26.11,Orthopedics,14
+ICD_67.80,Orthopedics,14
+ICD_71.95,Orthopedics,13
+ICD_62.22,Orthopedics,13
+ICD_65.16,Orthopedics,13
+ICD_49.28,Orthopedics,13
+ICD_66.88,Orthopedics,13
+ICD_62.26,Orthopedics,13
+ICD_17.61,Orthopedics,13
+ICD_89.48,Orthopedics,12
+ICD_87.52,Orthopedics,12
+ICD_45.65,Orthopedics,12
+ICD_23.65,Orthopedics,12
+ICD_17.30,Orthopedics,11
+ICD_34.64,Orthopedics,11
+ICD_16.33,Orthopedics,11
+ICD_56.84,Orthopedics,11
+ICD_29.68,Orthopedics,9
+ICD_83.64,Orthopedics,8
+ICD_14.30,Orthopedics,7
+ICD_21.96,Pediatrics,23
+ICD_23.65,Pediatrics,21
+ICD_04.03,Pediatrics,21
+ICD_22.23,Pediatrics,21
+ICD_37.80,Pediatrics,21
+ICD_72.15,Pediatrics,20
+ICD_63.65,Pediatrics,19
+ICD_16.57,Pediatrics,19
+ICD_68.68,Pediatrics,18
+ICD_29.68,Pediatrics,18
+ICD_80.85,Pediatrics,17
+ICD_14.65,Pediatrics,17
+ICD_18.44,Pediatrics,17
+ICD_63.88,Pediatrics,17
+ICD_36.86,Pediatrics,17
+ICD_63.70,Pediatrics,17
+ICD_40.75,Pediatrics,17
+ICD_30.54,Pediatrics,17
+ICD_62.26,Pediatrics,16
+ICD_88.71,Pediatrics,16
+ICD_04.55,Pediatrics,16
+ICD_88.62,Pediatrics,16
+ICD_56.84,Pediatrics,16
+ICD_16.34,Pediatrics,16
+ICD_09.59,Pediatrics,16
+ICD_65.92,Pediatrics,15
+ICD_81.33,Pediatrics,15
+ICD_31.22,Pediatrics,15
+ICD_19.95,Pediatrics,15
+ICD_50.41,Pediatrics,15
+ICD_65.10,Pediatrics,15
+ICD_39.54,Pediatrics,14
+ICD_91.71,Pediatrics,14
+ICD_66.88,Pediatrics,14
+ICD_14.30,Pediatrics,14
+ICD_40.23,Pediatrics,14
+ICD_76.46,Pediatrics,14
+ICD_51.39,Pediatrics,14
+ICD_71.95,Pediatrics,14
+ICD_22.44,Pediatrics,14
+ICD_50.89,Pediatrics,14
+ICD_67.80,Pediatrics,14
+ICD_96.23,Pediatrics,14
+ICD_54.10,Pediatrics,14
+ICD_02.02,Pediatrics,14
+ICD_17.61,Pediatrics,14
+ICD_16.33,Pediatrics,14
+ICD_75.60,Pediatrics,14
+ICD_68.23,Pediatrics,14
+ICD_68.96,Pediatrics,13
+ICD_89.48,Pediatrics,13
+ICD_83.64,Pediatrics,13
+ICD_72.80,Pediatrics,13
+ICD_27.23,Pediatrics,12
+ICD_59.11,Pediatrics,12
+ICD_24.15,Pediatrics,12
+ICD_30.42,Pediatrics,12
+ICD_69.24,Pediatrics,12
+ICD_17.30,Pediatrics,12
+ICD_13.93,Pediatrics,12
+ICD_44.22,Pediatrics,12
+ICD_87.52,Pediatrics,12
+ICD_88.68,Pediatrics,12
+ICD_27.05,Pediatrics,12
+ICD_90.40,Pediatrics,12
+ICD_66.54,Pediatrics,12
+ICD_83.31,Pediatrics,11
+ICD_02.56,Pediatrics,11
+ICD_86.94,Pediatrics,11
+ICD_62.22,Pediatrics,11
+ICD_35.84,Pediatrics,11
+ICD_23.88,Pediatrics,11
+ICD_01.98,Pediatrics,11
+ICD_26.11,Pediatrics,10
+ICD_90.68,Pediatrics,10
+ICD_34.64,Pediatrics,10
+ICD_92.94,Pediatrics,10
+ICD_12.40,Pediatrics,10
+ICD_49.28,Pediatrics,10
+ICD_69.29,Pediatrics,10
+ICD_79.11,Pediatrics,10
+ICD_45.65,Pediatrics,10
+ICD_15.48,Pediatrics,10
+ICD_68.92,Pediatrics,10
+ICD_81.39,Pediatrics,10
+ICD_54.56,Pediatrics,9
+ICD_86.29,Pediatrics,9
+ICD_69.06,Pediatrics,9
+ICD_76.45,Pediatrics,9
+ICD_54.01,Pediatrics,9
+ICD_65.16,Pediatrics,9
+ICD_11.05,Pediatrics,9
+ICD_25.54,Pediatrics,9
+ICD_06.96,Pediatrics,9
+ICD_96.19,Pediatrics,8
+ICD_54.18,Pediatrics,8
+ICD_94.77,Pediatrics,7
+ICD_27.28,Pediatrics,7
+ICD_29.88,Pediatrics,7
+ICD_07.00,Pediatrics,4
+ICD_29.68,Psychiatry,24
+ICD_14.30,Psychiatry,20
+ICD_88.62,Psychiatry,20
+ICD_94.77,Psychiatry,19
+ICD_62.26,Psychiatry,19
+ICD_30.54,Psychiatry,19
+ICD_90.68,Psychiatry,19
+ICD_65.16,Psychiatry,18
+ICD_80.85,Psychiatry,18
+ICD_44.22,Psychiatry,17
+ICD_27.23,Psychiatry,17
+ICD_89.48,Psychiatry,16
+ICD_40.23,Psychiatry,16
+ICD_31.22,Psychiatry,16
+ICD_96.23,Psychiatry,16
+ICD_35.84,Psychiatry,16
+ICD_09.59,Psychiatry,16
+ICD_71.95,Psychiatry,16
+ICD_36.86,Psychiatry,15
+ICD_54.56,Psychiatry,15
+ICD_45.65,Psychiatry,15
+ICD_63.70,Psychiatry,15
+ICD_30.42,Psychiatry,15
+ICD_27.05,Psychiatry,15
+ICD_68.23,Psychiatry,15
+ICD_27.28,Psychiatry,15
+ICD_07.00,Psychiatry,15
+ICD_65.92,Psychiatry,15
+ICD_91.71,Psychiatry,15
+ICD_54.10,Psychiatry,15
+ICD_40.75,Psychiatry,15
+ICD_50.89,Psychiatry,15
+ICD_23.88,Psychiatry,15
+ICD_68.92,Psychiatry,15
+ICD_83.64,Psychiatry,15
+ICD_67.80,Psychiatry,14
+ICD_88.68,Psychiatry,14
+ICD_37.80,Psychiatry,14
+ICD_83.31,Psychiatry,14
+ICD_63.88,Psychiatry,14
+ICD_23.65,Psychiatry,14
+ICD_88.71,Psychiatry,14
+ICD_96.19,Psychiatry,13
+ICD_21.96,Psychiatry,13
+ICD_56.84,Psychiatry,13
+ICD_62.22,Psychiatry,13
+ICD_17.61,Psychiatry,13
+ICD_04.03,Psychiatry,13
+ICD_17.30,Psychiatry,13
+ICD_26.11,Psychiatry,13
+ICD_68.68,Psychiatry,13
+ICD_65.10,Psychiatry,13
+ICD_50.41,Psychiatry,13
+ICD_59.11,Psychiatry,13
+ICD_75.60,Psychiatry,13
+ICD_16.34,Psychiatry,13
+ICD_16.57,Psychiatry,13
+ICD_13.93,Psychiatry,13
+ICD_51.39,Psychiatry,13
+ICD_63.65,Psychiatry,13
+ICD_54.18,Psychiatry,13
+ICD_86.94,Psychiatry,12
+ICD_15.48,Psychiatry,12
+ICD_54.01,Psychiatry,12
+ICD_66.54,Psychiatry,12
+ICD_04.55,Psychiatry,12
+ICD_22.44,Psychiatry,11
+ICD_25.54,Psychiatry,11
+ICD_68.96,Psychiatry,11
+ICD_22.23,Psychiatry,11
+ICD_02.02,Psychiatry,11
+ICD_81.39,Psychiatry,11
+ICD_18.44,Psychiatry,11
+ICD_01.98,Psychiatry,11
+ICD_39.54,Psychiatry,11
+ICD_02.56,Psychiatry,11
+ICD_49.28,Psychiatry,10
+ICD_11.05,Psychiatry,10
+ICD_06.96,Psychiatry,10
+ICD_19.95,Psychiatry,10
+ICD_72.80,Psychiatry,10
+ICD_81.33,Psychiatry,9
+ICD_69.06,Psychiatry,9
+ICD_86.29,Psychiatry,9
+ICD_29.88,Psychiatry,9
+ICD_69.24,Psychiatry,9
+ICD_87.52,Psychiatry,9
+ICD_79.11,Psychiatry,9
+ICD_90.40,Psychiatry,9
+ICD_24.15,Psychiatry,8
+ICD_76.46,Psychiatry,8
+ICD_16.33,Psychiatry,8
+ICD_76.45,Psychiatry,8
+ICD_66.88,Psychiatry,8
+ICD_34.64,Psychiatry,8
+ICD_12.40,Psychiatry,8
+ICD_14.65,Psychiatry,7
+ICD_92.94,Psychiatry,7
+ICD_69.29,Psychiatry,6
+ICD_72.15,Psychiatry,5

@@ -1,0 +1,10 @@
+visit_type,patient_gender,patients_distribution
+Emergency,Female,1135
+Emergency,Male,1277
+Emergency,Other,935
+Inpatient,Female,1087
+Inpatient,Male,1207
+Inpatient,Other,969
+Outpatient,Female,1132
+Outpatient,Male,1251
+Outpatient,Other,1007
