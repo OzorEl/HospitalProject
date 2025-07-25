@@ -1,0 +1,10 @@
+📄 Query Results (CSV Outputs)
+This repository includes several CSV files containing the output of SQL queries run on the hospital database. These files represent sample result tables generated during data exploration and analysis.
+
+They are provided to:
+
+    Help readers visualize what each SQL query returns.
+
+    Serve as reference tables to understand query outputs without needing to execute them.
+
+    Allow easy copying or import into MySQL or spreadsheet tools for demonstration purposes.
